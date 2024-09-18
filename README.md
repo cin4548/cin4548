@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cin4548
+- 👋 Hi, I’m Husada Boonpitak
 - 👀 I’m interested in AI  Machine Learning, Vision API, Full Stack Developer
 - 📫 How to reach me : Emai cin4548@gmail.com
 <!---
